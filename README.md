@@ -1,5 +1,7 @@
 # lls-addon-install
 
+[中文](./README_ZH.md)
+
 `lls-addon-install` is a Rust CLI for installing LuaLS addons from the official `LuaLS/LLS-Addons` registry into a local addon directory, then updating `.luarc.json` so LuaLS can discover them.
 
 ## Warning
